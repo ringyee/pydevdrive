@@ -73,7 +73,7 @@ python-debianbts==2.6.1
 python-editor==0.4
 pytz==2016.7
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.1
 reportbug==7.1.7
 reportlab==3.3.0
 requests==2.12.4
